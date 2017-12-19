@@ -14,7 +14,7 @@ and slugged.
 Example
 ----------
 Highlight the necessary items just as how you would normally and right-click to
-open the context menu. Hover over 'send to', then click ranamer.cmd to execute python
+open the context menu. Hover over 'send to', then click renamer.cmd to execute python
 command.
 
 What's New
