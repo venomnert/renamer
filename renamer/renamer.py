@@ -1,6 +1,6 @@
 import sys
 import os
-from filename import Filename
+from renamer.filename import Filename
 import time
 
 # PyCharm pip installs all the modoles in the following path.

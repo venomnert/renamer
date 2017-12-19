@@ -1,10 +1,6 @@
 import os
 import sys
 
-# 2017 Xmas FlashSale 1px version.jpg
-
-import time
-
 sys.path.append('C:\\Users\\Nsivananthan\\PycharmProjects\\renamer\\venv\\Lib\\site-packages')
 from slugify import Slugify
 
