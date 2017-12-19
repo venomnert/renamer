@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6cebf1a-b17b-4d92-bd13-982dae78e7da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/renamer/program.py" afterPath="$PROJECT_DIR$/renamer/program.py" />
-      <change beforePath="$PROJECT_DIR$/renamer/renamer.py" afterPath="$PROJECT_DIR$/renamer/renamer.py" />
-    </list>
+    <list default="true" id="e6cebf1a-b17b-4d92-bd13-982dae78e7da" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
