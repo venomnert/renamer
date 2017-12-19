@@ -3,7 +3,10 @@
 # -Add suffix to directory or file name
 # -Add prefix to directory or file name
 import sys
-from renamer import Renamer
+try:
+    from renamer import Renamer
+except:
+    print('error', sys.path)
 
 
 def main():

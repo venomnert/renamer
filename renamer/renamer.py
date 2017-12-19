@@ -1,7 +1,10 @@
 import sys
 import os
-from renamer.filename import Filename
 import time
+try:
+    from filename import Filename
+except:
+    print('error', sys.path)
 
 # PyCharm pip installs all the modoles in the following path.
 # I just included in the sys.path, which is where Python looks for modules
