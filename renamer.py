@@ -1,18 +1,8 @@
 import sys
 import os
 import time
-try:
-    from filename import Filename
-except:
-    print('error', sys.path)
+from filename import Filename
 
-# PyCharm pip installs all the modoles in the following path.
-# I just included in the sys.path, which is where Python looks for modules
-# Info:
-#   -http://www.daveoncode.com/2017/03/07/how-to-solve-python-modulenotfound-no-module-named-import-error/
-#   -https://stackoverflow.com/questions/3108285/in-python-script-how-do-i-set-pythonpath
-
-sys.path.append('C:\\Users\\Nsivananthan\\PycharmProjects\\renamer\\venv\\Lib\\site-packages')
 
 try:
     from slugify import Slugify

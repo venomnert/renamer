@@ -1,7 +1,6 @@
 import os
 import sys
 
-sys.path.append('C:\\Users\\Nsivananthan\\PycharmProjects\\renamer\\venv\\Lib\\site-packages')
 from slugify import Slugify
 
 
