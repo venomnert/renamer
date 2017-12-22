@@ -1,6 +1,3 @@
- Renamer
-=======================
-
 Overview
 ---------
 The purpose of the package is to extend the default os rename functionality
@@ -41,4 +38,6 @@ Installation Guide
 11. Hover over to send to option and click ``'renamer-slug'``
 
 12. Follow the instruction on the screen.
+
+
 
