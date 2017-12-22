@@ -39,5 +39,8 @@ Installation Guide
 
 12. Follow the instruction on the screen.
 
+Screenshot
+------------------
+.. image:: https://raw.githubusercontent.com/venomnert/renamer/master/screenshot.png
 
 
