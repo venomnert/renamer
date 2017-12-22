@@ -24,12 +24,10 @@ Installation Guide
 
 8. Inside the directory create a file called 'renamer-slug.cmd'
 
-9. And enter the following command:
-    <code>
+9. And enter the following command ``::``
         @echo off
         cls
         "this is where the copied file path goes"\python "where the renamer directory is kept"\program.py %*
-    </code>
 
 10. After having done that, you start using the program.
 
